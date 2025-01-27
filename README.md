@@ -70,7 +70,7 @@ The solution consists of five key stages:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/Durgesh5863/AI-Driven-Recruitment-Pipeline
+git clone [https://github.com/Durgesh5863/AI-Driven-Recruitment-Pipeline](https://github.com/Durgesh5863/AI-Driven-Recruitment-Pipeline.git)
 ```
 2. Navigate to the project directory:
 ```bash
